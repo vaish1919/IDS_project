@@ -104,7 +104,6 @@ python main.py
 ## 👤 Author 
 📝 **Vaishnavi Shinde**  
 📧 Email: [vgshinde19.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
 
  
 
